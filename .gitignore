@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+build/
+gradle/
+app/
+build/
+checkpoint*/
+project/target/
+project/project/
+target/
+.DS_Store
