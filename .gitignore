@@ -5,7 +5,6 @@ gradle/
 app/
 build/
 checkpoint*/
-project/target/
-project/project/
+project/
 target/
 .DS_Store
